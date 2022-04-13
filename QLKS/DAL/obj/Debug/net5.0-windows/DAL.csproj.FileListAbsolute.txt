@@ -1,0 +1,5 @@
+D:\NhapMonCnpm\Đồ án\QLKS\DAL\obj\Debug\net5.0-windows\DAL.csproj.AssemblyReference.cache
+D:\NhapMonCnpm\Đồ án\QLKS\DAL\obj\Debug\net5.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhapMonCnpm\Đồ án\QLKS\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfoInputs.cache
+D:\NhapMonCnpm\Đồ án\QLKS\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfo.cs
+D:\NhapMonCnpm\Đồ án\QLKS\DAL\obj\Debug\net5.0-windows\DAL.csproj.CoreCompileInputs.cache
