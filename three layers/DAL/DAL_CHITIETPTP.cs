@@ -23,7 +23,7 @@ namespace DAL
         public bool ThemChiTietPTP(DTO_CHITIETPTP chiTietPTP)
         {
             connection.Open();
-            string sql = string.Format("NSERT INTO CHITIETPTP(MACTPTP, MAPTP, MAKH) VALUES ('{0}', '{1}', '{2}')", chiTietPTP._MACTPTP, chiTietPTP._MAPTP, chiTietPTP._MAKH);
+            string sql = string.Format("INSERT INTO CHITIETPTP(MACTPTP, MAPTP, MAKH) VALUES ('{0}', '{1}', '{2}')", chiTietPTP._MACTPTP, chiTietPTP._MAPTP, chiTietPTP._MAKH);
             SqlCommand cmd = new SqlCommand(sql, connection);
             if (cmd.ExecuteNonQuery() > 0)
                 return true;

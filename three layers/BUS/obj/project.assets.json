@@ -500,11 +500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layer\\BUS\\BUS.csproj",
+      "projectUniqueName": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layers\\BUS\\BUS.csproj",
       "projectName": "BUS",
-      "projectPath": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layer\\BUS\\BUS.csproj",
+      "projectPath": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layers\\BUS\\BUS.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layer\\BUS\\obj\\",
+      "outputPath": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layers\\BUS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -521,11 +521,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layer\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layer\\DAL\\DAL.csproj"
+            "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layers\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layers\\DAL\\DAL.csproj"
             },
-            "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layer\\DTO\\DTO.csproj": {
-              "projectPath": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layer\\DTO\\DTO.csproj"
+            "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layers\\DTO\\DTO.csproj": {
+              "projectPath": "D:\\UIT\\Study process\\Năm 2\\HK IV\\SE104 - Nhập môn Công nghệ phần mềm\\Project\\SE104.M22-Project-14-main\\three layers\\DTO\\DTO.csproj"
             }
           }
         }
