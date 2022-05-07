@@ -1,5 +1,0 @@
-D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\SE104.M22-Project-14-main\three layers\DTO\obj\Debug\net5.0-windows\DTO.csproj.AssemblyReference.cache
-D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\SE104.M22-Project-14-main\three layers\DTO\obj\Debug\net5.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
-D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\SE104.M22-Project-14-main\three layers\DTO\obj\Debug\net5.0-windows\DTO.AssemblyInfoInputs.cache
-D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\SE104.M22-Project-14-main\three layers\DTO\obj\Debug\net5.0-windows\DTO.AssemblyInfo.cs
-D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\SE104.M22-Project-14-main\three layers\DTO\obj\Debug\net5.0-windows\DTO.csproj.CoreCompileInputs.cache
