@@ -1,0 +1,241 @@
+﻿<UserControl x:Class="QuanLyKhachSan.MVVM.View.RoomsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal"
+                    Margin="5,0">
+
+            <StackPanel.Resources>
+                <Style TargetType="RadioButton">
+                    <Setter Property="Height" Value="30"/>
+                    <Setter Property="MinWidth" Value="60"/>
+                    <Setter Property="Margin" Value="5,0"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="RadioButton">
+                                <Grid>
+                                    <Border CornerRadius="15" 
+                                            Background="{TemplateBinding Background}">
+                                        <TextBlock Text="{TemplateBinding Property=Content}"
+                                                   VerticalAlignment="Center"
+                                                   Foreground="White"
+                                                   FontSize="15"
+                                                   FontWeight="Medium"
+                                                   Padding="10,0"/>
+                                    </Border>
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </StackPanel.Resources>
+
+            <TextBox x:Name="Search"
+                     Width="120" Height="34"
+                     FontSize="15"
+                     Padding="10,0,10,0"
+                     Style="{StaticResource MordernTextBox}" TextChanged="searchTextBox_TextChanged" PreviewTextInput="SearchTextBox_PreviewTextInput"/>
+
+            <RadioButton x:Name="allRoomsRadioButton" Content="Tất cả(100)" Background="DarkBlue" Click="AllRoomsRadioButton_Click"/>
+            <RadioButton x:Name="emptyRoomsRadioButton" Content="Còn trống(40)" Background="Green" Click="EmptyRoomsRadioButton_Click"/>
+            <RadioButton x:Name="rentedRoomsRadioButton" Content="Đã thuê(60)" Background="Red" Click="RentedRoomsRadioButton_Click"/>
+
+        </StackPanel>
+
+        <!--<StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <StackPanel.Resources>
+                <Style TargetType="RadioButton" x:Key="SaveButton"
+                BasedOn="{StaticResource {x:Type ToggleButton}}" >
+                    <Setter Property="IsChecked" Value="True"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsChecked, RelativeSource={RelativeSource Self}}" Value="true">
+                            <Setter Property="Visibility" Value="Hidden"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </StackPanel.Resources>
+            <RadioButton x:Name="SaveSettingButton"
+                        HorizontalAlignment="Right" 
+                        Width="80" Height="30"
+                        Margin="8,0"
+                        Content="Save"
+                         Style="{StaticResource SaveButton}"/>
+            <RadioButton x:Name="SettingRoomsButton"
+                        HorizontalAlignment="Right" 
+                        Width="80" Height="30"
+                        Margin="8,0"
+                        Content="Setting"
+                         Style="{StaticResource {x:Type ToggleButton}}"/>
+
+        </StackPanel>-->
+
+        <Grid Grid.Row="1" Margin="0,10,0,0">
+            <ScrollViewer>
+                <StackPanel Orientation="Vertical">
+                    <StackPanel.Resources>
+                        <Style x:Key="floor" TargetType="Button">
+                            <Setter Property="Background" Value="#00FFFF"/>
+                            <Setter Property="Padding" Value="0,0,0,1"/>
+                            <Setter Property="Margin" Value="0,0,0,20"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            <Setter Property="FontSize" Value="18"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="Content" Value="000"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Grid x:Name="RoomButton" Background="{TemplateBinding Background}">
+                                            <TextBlock Text="{TemplateBinding Property=Content}"
+                                                       FontSize="18" 
+                                                       VerticalAlignment="Center"
+                                                       HorizontalAlignment="Center"
+                                                       FontWeight="Bold"/>
+                                        </Grid>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+
+                        <Style x:Key="AdvancedButton" TargetType="Grid">
+                            <Setter Property="Height" Value="20"/>
+                            <Setter Property="Margin" Value="0,-16,0,4"/>
+                        </Style>
+
+                        <Style x:Key="BaseRoomButton" TargetType="RadioButton">
+                            <Setter Property="Width" Value="80"/>
+                            <Setter Property="Height" Value="100"/>
+                            <Setter Property="Margin" Value="20,0,0,20"/>
+                            <Setter Property="Background" Value="White"/>
+                            <Setter Property="Content" Value="000"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="RadioButton">
+                                        <Grid Background="{TemplateBinding Background}">
+                                            <TextBlock Text="{TemplateBinding Property=Content}"
+                                                       FontSize="30" 
+                                                       VerticalAlignment="Center"
+                                                       HorizontalAlignment="Center"/>
+                                            <!--<Button x:Name="DeleteRoomButton" 
+                                                    HorizontalAlignment="Right"
+                                                    VerticalAlignment="Top" 
+                                                    Height="20" Width="20"
+                                                    Margin="0,-10,-10,0"
+                                                    Background="Gray"
+                                                    Style="{StaticResource WindowButtonTheme}"
+                                                    Visibility="{Binding ElementName=SaveSettingButton, Path=Visibility}">
+                                                <Image Height="30" Source="/Images/XButton.png"/>
+                                            </Button>-->
+                                        </Grid>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="Gray"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+
+                        <Style x:Key="OrderRoomButton" TargetType="RadioButton"
+                               BasedOn="{StaticResource BaseRoomButton}">
+                            <Setter Property="Background" Value="Red"/>
+                        </Style>
+
+                        <Style x:Key="EmptyRoomButton" TargetType="RadioButton"
+                               BasedOn="{StaticResource BaseRoomButton}">
+                            <Setter Property="Background" Value="Green"/>
+                        </Style>
+
+                        <Style x:Key="AddRoomButton" TargetType="RadioButton"
+                                BasedOn="{StaticResource BaseRoomButton}">
+                            <Setter Property="Background" Value="White"/>
+                            <Setter Property="Content" Value="+"/>
+                            <Setter Property="Visibility" Value="{Binding ElementName=SaveSettingButton, Path=Visibility}"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="RadioButton">
+                                        <Grid Background="{TemplateBinding Background}">
+                                            <TextBlock Text="{TemplateBinding Property=Content}"
+                                                       FontSize="30" 
+                                                       VerticalAlignment="Center"
+                                                       HorizontalAlignment="Center"/>
+                                        </Grid>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+
+                        <Style TargetType="RadioButton"
+                               BasedOn="{StaticResource EmptyRoomButton}"/>
+
+                    </StackPanel.Resources>
+
+                    <StackPanel>
+                        <TextBlock x:Name="DanhMucPhong" 
+                                Margin="0,0,0,20"
+                                Padding="0,0,0,1"
+                                Text="Danh Mục Phòng"
+                                TextAlignment="Center"
+                                Background="#00FFFF"
+                                FontSize="18"
+                                FontWeight="Bold"/>
+                        <WrapPanel x:Name="MainRoomsScreen" IsEnabled="False"/>
+                    </StackPanel>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</UserControl>
+
+<!--<StackPanel>
+    <Button x:Name="f2" 
+                                Style="{StaticResource floor}" 
+                                Content="Tầng 2"
+                                Click="Floor_Click"/>
+    <WrapPanel x:Name="f2Rooms">
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Style="{StaticResource AddRoomButton}"/>
+    </WrapPanel>
+</StackPanel>
+
+<StackPanel>
+    <Button Style="{StaticResource floor}" 
+                                Content="Tầng 3"/>
+    <WrapPanel>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Content="1"/>
+        <RadioButton Style="{StaticResource AddRoomButton}"/>
+    </WrapPanel>
+</StackPanel>
+
+<StackPanel>
+    <Button Style="{StaticResource floor}" 
+                                Content="Tầng 4"/>
+    <WrapPanel>
+        <RadioButton Style="{StaticResource AddRoomButton}"/>
+    </WrapPanel>
+
+</StackPanel>-->
