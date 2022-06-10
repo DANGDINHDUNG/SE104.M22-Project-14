@@ -3,9 +3,11 @@
 Danh sách thành viên nhóm 13:
   
   •	20520456 – Đặng Đình Dũng (Nhóm trưởng)<br />
+  
     -> Thiết kế một số chức năng tính toán  <br />
     
   •	20520406 – Nguyễn Gia Bảo<br />
+  
     -> Thiết kế cơ sở dữ liệu, thiết kế một số chức năng  <br />
     
   •	20520544 – Nguyễn Huỳnh Gia Huy<br />
