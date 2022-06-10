@@ -1,0 +1,711 @@
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\Images\lmao.ico
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\ref\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_Content.g.cs
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.baml
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\ref\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ForgotPasswordScreen.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LoginScreen.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ForgotPasswordScreen.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LoginScreen.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\TextBoxTheme.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\ref\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ForgotPasswordScreen.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LoginScreen.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ForgotPasswordScreen.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LoginScreen.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\TextBoxTheme.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\SignUp.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\SignUp.baml
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.g.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\ref\GUI.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ForgotPasswordScreen.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LoginScreen.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\SignUp.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ForgotPasswordScreen.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LoginScreen.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\SignUp.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\TextBoxTheme.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\PTP.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TinhTienHD.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\PTP.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TinhTienHD.baml
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.dll
+D:\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.baml
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.g.cs
+D:\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ForgotPasswordScreen.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LoginScreen.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\PTP.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\SignUp.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TinhTienHD.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ForgotPasswordScreen.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LoginScreen.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\PTP.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\SignUp.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\TextBoxTheme.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TinhTienHD.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\refint\GUI.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\TextBoxTheme.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.baml
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\ref\GUI.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\TextBoxTheme.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.baml
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\TextBoxTheme.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.baml
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\refint\GUI.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\TextBoxTheme.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.baml
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache

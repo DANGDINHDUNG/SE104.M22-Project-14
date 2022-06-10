@@ -1,0 +1,120 @@
+﻿<Window x:Class="QuanLyKhachSan.MVVM.View.DanhSachPTP"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyKhachSan"
+        mc:Ignorable="d"
+        Title="LoginScreen" Height="680" Width="1024"
+        AllowsTransparency="True"
+        Background="Transparent"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+
+    <Border x:Name="MainBorder"
+            Background="#EEF0F5"
+            CornerRadius="20"
+            BorderThickness="5" Margin="0,0,10,127">
+
+        <Border.Effect>
+            <DropShadowEffect Color="Gray" 
+                              BlurRadius="6" 
+                              Direction="-90" 
+                              RenderingBias="Quality"
+                              ShadowDepth="1"/>
+        </Border.Effect>
+
+        <Grid Margin="0,0,25,33">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Background="Transparent"
+                  MouseDown="Window_MouseDown"
+                  MouseLeftButtonDown="TitleBarThumb_MouseDoubleClick">
+
+                <StackPanel VerticalAlignment="Top"
+                            HorizontalAlignment="Right" 
+                            Orientation="Horizontal"
+                            Margin="0,0,0,0">
+
+                    <Button Style="{StaticResource WindowButtonTheme}" 
+                            Click="MinimizeButton_Click">
+                        <Image Height="30" Source="/Images/MinusButton.png"/>
+                    </Button>
+
+                    <Button Style="{StaticResource WindowButtonTheme}" 
+                            Click="MaximizeButton_Click">
+                        <Image x:Name="MaximizeButton_Image" Height="26" Source="/Images/QuadButton.png"/>
+                    </Button>
+
+                    <Button Style="{StaticResource WindowButtonTheme}" 
+                            Click="CloseButton_Click">
+                        <Image Height="30" Source="/Images/XButton.png"/>
+                    </Button>
+
+                </StackPanel>
+
+            </Grid>
+            <DataGrid x:Name="phieuThuePhongDtg"
+                      Grid.Row="1"
+                      ItemsSource="{Binding Path=DefaultView}" Loaded="phieuThuePhongDtg_Load" HorizontalAlignment="Left" Width="510" Margin="34,0,0,108" SelectionChanged="phieuThuePhongDtg_SelectionChanged" IsReadOnly="True" />
+            <TextBlock HorizontalAlignment="Center" 
+                FontSize="30"
+                Margin="20,10,0,10"
+                Text="Phiếu thuê phòng"
+                FontWeight="Bold"
+                Foreground="#424F6B"/>
+            <Grid Margin="579,6,15,128" Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="63*"/>
+                    <ColumnDefinition Width="61*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="Mã phiếu thuê phòng" FontSize="18" Margin="0,0,12,43" Grid.RowSpan="2"/>
+                <TextBlock Grid.Row="1" Text="Mã phòng" FontSize="18" Margin="0,0,12,43" Grid.RowSpan="2"/>
+                <TextBlock Grid.Row="2" Text="Ngày lập" FontSize="18" Margin="0,0,12,43" Grid.RowSpan="2"/>
+                <TextBlock Grid.Row="3" Text="Số lượng" FontSize="18" Margin="0,0,12,42" Grid.RowSpan="2"/>
+                <TextBlock Grid.Row="4" Text="Đơn giá" FontSize="18" Margin="0,0,12,0"/>
+                <TextBlock Grid.Row="4" Text="Tên khách hàng" FontSize="18" Margin="0,42,12,0" Grid.RowSpan="2"/>
+
+                <TextBlock x:Name="maPTPTbl"  Grid.Column="1" Margin="0,0,0,43" Grid.RowSpan="2" FontSize="18"/>
+                <TextBlock x:Name="maPhongTbl" Grid.Column="1" Grid.Row="1" Margin="0,0,0,43" Grid.RowSpan="2" FontSize="18"/>
+                <DatePicker x:Name="ngayLapDpk" Grid.Column="1" Grid.Row="1" Visibility="Visible" IsEnabled="False" Margin="0,35,0,8" Grid.RowSpan="2" FontSize="18"/>
+                <TextBlock x:Name="soLuongTbl" Grid.Column="1" Grid.Row="3" Margin="0,0,0,42" Grid.RowSpan="2" FontSize="18"/>
+
+                <DockPanel Grid.Column="1" Grid.Row="4"  LastChildFill="True">
+                    <DockPanel.Resources>
+                        <Style TargetType="{x:Type Button}"
+                            BasedOn="{StaticResource WindowButtonTheme2}">
+                            <Setter Property="Margin" Value="2,0"/>
+                            <Setter Property="Height" Value="26"/>
+                            <Setter Property="Width" Value="26"/>
+                            <Setter Property="FontSize" Value="8"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Style>
+                    </DockPanel.Resources>
+                    <TextBlock x:Name="donGiaTbl" Width="188" FontSize="18"/>
+                </DockPanel>
+                <TextBlock x:Name="tenKHTbl" Grid.Row="5" Margin="0,6,0,35" Grid.RowSpan="2" Grid.Column="1" FontSize="18"/>
+                <TextBlock Grid.Row="6" Text="Mã khách hàng" FontSize="18" Margin="0,4,12,3"/>
+                <TextBlock x:Name="maKHTbl" Grid.Row="6" Margin="0,3,0,3" Grid.Column="1" FontSize="18"/>
+            </Grid>
+            <Button x:Name="xuatThongTinBtn" Style="{StaticResource WindowButtonTheme2}" Content="Xuất thông tin" HorizontalAlignment="Left" Margin="575,371,0,0" Grid.Row="1" VerticalAlignment="Top" Height="37" Width="160" Click="xuatThongTinBtn_Click"/>
+            <Button x:Name="thoatBtn" Style="{StaticResource WindowButtonTheme2}" Content="Thoát" HorizontalAlignment="Left" Margin="790,372,0,0" Grid.Row="1" VerticalAlignment="Top" Height="37" Width="160" Click="thoatBtn_Click"/>
+        </Grid>
+    </Border>
+</Window>
+

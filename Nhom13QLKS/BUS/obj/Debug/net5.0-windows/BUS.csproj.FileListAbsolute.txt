@@ -1,0 +1,153 @@
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\bin\Debug\net5.0-windows\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\bin\Debug\net5.0-windows\BUS.pdb
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\bin\Debug\net5.0-windows\DAL.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\bin\Debug\net5.0-windows\DTO.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\bin\Debug\net5.0-windows\DAL.pdb
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\bin\Debug\net5.0-windows\DTO.pdb
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\obj\Debug\net5.0-windows\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\SE104.M22-Project-14-main\SE104.M22-Project-14-main\UI\BUS\obj\Debug\net5.0-windows\BUS.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\bin\Debug\net5.0-windows\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\bin\Debug\net5.0-windows\BUS.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\bin\Debug\net5.0-windows\DAL.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\bin\Debug\net5.0-windows\DTO.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\bin\Debug\net5.0-windows\DAL.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\bin\Debug\net5.0-windows\DTO.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\obj\Debug\net5.0-windows\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom14QLKS\BUS\obj\Debug\net5.0-windows\BUS.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.pdb
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+D:\NhapMonCnpm\Thử nghiệm\1\SE104.M22-Project-14-main\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.pdb
+D:\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+D:\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.dll
+D:\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+D:\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.pdb
+D:\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.dll
+D:\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.dll
+D:\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.pdb
+D:\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.pdb
+D:\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+D:\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+D:\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+D:\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+D:\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+D:\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.dll
+D:\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+D:\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\refint\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.pdb
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.pdb
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.pdb
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.pdb
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+D:\Users\USER\Downloads\Nhom13QLKS\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\BUS.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DAL.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\bin\Debug\net5.0-windows\DTO.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\refint\BUS.dll
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\BUS.pdb
+D:\UIT\Study process\Năm 2\HK IV\SE104 - Nhập môn Công nghệ phần mềm\Project\Nhom13QLKS\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\ref\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.pdb
