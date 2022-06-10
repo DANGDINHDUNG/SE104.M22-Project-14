@@ -1,0 +1,54 @@
+﻿<Application x:Class="QuanLyKhachSan.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:QuanLyKhachSan"
+             xmlns:viewModel="clr-namespace:QuanLyKhachSan.MVVM.ViewModel"
+             xmlns:subViewModel="clr-namespace:QuanLyKhachSan.MVVM.ViewModel.SubViewModel"
+             xmlns:view="clr-namespace:QuanLyKhachSan.MVVM.View"
+             xmlns:subView="clr-namespace:QuanLyKhachSan.MVVM.View.SubView"
+             StartupUri="LoginScreen.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/ButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/TextBoxTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type viewModel:RoomsViewModel}">
+                <view:RoomsView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:RoomRentalViewModel}">
+                <view:RoomRentalView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:PaymentViewModel}">
+                <view:PaymentView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:ReportationViewModel}">
+                <view:ReportationView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:ServicesViewModel}">
+                <view:ServicesView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:SettingsViewModel}">
+                <view:SettingsView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:TempViewModel}">
+                <view:TempView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type subViewModel:SettingRoomStatusesViewModel}">
+                <subView:SettingRoomStatusesView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type subViewModel:SettingRoomsViewModel}">
+                <subView:SettingRoomsView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type subViewModel:SettingRoomTypesViewModel}">
+                <subView:SettingRoomTypesView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type subViewModel:SettingRulesViewModel}">
+                <subView:SettingRulesView/>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
