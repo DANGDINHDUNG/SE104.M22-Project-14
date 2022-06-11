@@ -19,4 +19,5 @@ Danh sách thành viên nhóm 13:
     -> Thiết kế giao diện cho đồ án
 
 Đề tài đồ án: Phần mềm quản lý khách sạn.
-Tiến độ: 100%-HOÀN THÀNH
+Tiến độ: 100%- 
+# ĐÃ HOÀN THÀNH
