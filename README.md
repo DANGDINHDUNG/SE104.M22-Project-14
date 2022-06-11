@@ -2,7 +2,7 @@
 # Giáo viên hướng dẫn: Đỗ Thị Thanh Tuyền
 Danh sách thành viên nhóm 13:
   
-  •	20520456 – Đặng Đình Dũng (Nhóm trưởng)<br />
+  •	20520456 – Đặng Đình Dũng (Nhóm trưởng)
   
     -> Thiết kế một số chức năng tính toán  <br />
     
