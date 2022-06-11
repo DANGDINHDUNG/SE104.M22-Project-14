@@ -2,21 +2,21 @@
 # Giáo viên hướng dẫn: Đỗ Thị Thanh Tuyền
 Danh sách thành viên nhóm 13:
   
-  •	20520456 – Đặng Đình Dũng (Nhóm trưởng)<br />
+  •	20520456 – Đặng Đình Dũng (Nhóm trưởng)
   
-    -> Thiết kế một số chức năng tính toán  <br />
+    -> Thiết kế một số chức năng tính toán  
     
-  •	20520406 – Nguyễn Gia Bảo<br />
+  •	20520406 – Nguyễn Gia Bảo
   
-    -> Thiết kế cơ sở dữ liệu, thiết kế một số chức năng  <br />
+    -> Thiết kế cơ sở dữ liệu, thiết kế một số chức năng  
     
-  •	20520544 – Nguyễn Huỳnh Gia Huy<br />
+  •	20520544 – Nguyễn Huỳnh Gia Huy
   
-    -> Thiết kế kiến trúc, thiết kế một số chức năng phân quyền <br />
+    -> Thiết kế kiến trúc, thiết kế một số chức năng phân quyền 
     
-  •	20520862 – Nguyễn Thế Vinh<br />
+  •	20520862 – Nguyễn Thế Vinh
   			
-    -> Thiết kế giao diện cho đồ án<br />
+    -> Thiết kế giao diện cho đồ án
 
-Đề tài đồ án: Phần mềm quản lý khách sạn.<br />
+Đề tài đồ án: Phần mềm quản lý khách sạn.
 Tiến độ: 100%-HOÀN THÀNH
