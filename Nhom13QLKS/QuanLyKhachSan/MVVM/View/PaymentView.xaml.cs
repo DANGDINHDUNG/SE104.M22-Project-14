@@ -145,7 +145,14 @@ namespace QuanLyKhachSan.MVVM.View
             DateTime end = ngayLapDpk.SelectedDate.Value.Date;
             DateTime start = ngayThueDpk.SelectedDate.Value.Date;
             TimeSpan difference = end.Subtract(start);
-            soNgayTbl.Text = difference.TotalDays.ToString();
+            if (difference.TotalDays.ToString() == "0")
+            {
+                soNgayTbl.Text = "1";
+            }
+            else
+            {
+                soNgayTbl.Text = difference.TotalDays.ToString();
+            }
         }
 
         private void hinhThucTTCbx_Load(object sender, RoutedEventArgs e)
@@ -243,19 +250,20 @@ namespace QuanLyKhachSan.MVVM.View
 
         private void luuHDBtn_Click(object sender, RoutedEventArgs e)
         {
+
             if (thanhTienTxb.Text == string.Empty)
             {
                 MessageBox.Show("Vui lòng tạo hóa đơn thanh toán trước khi xác nhận lưu hóa đơn", "Thông báo");
             }
             else
             {
+                DataRowView row = phongThueDtg.Items[0] as DataRowView;
+
                 decimal thanhtien = decimal.Parse(thanhTienTxb.Text);
                 int mahd = int.Parse(maHDTbl.Text);
                 hd.SuaHOADON((int)thanhtien, mahd);
 
                 string maBCDT = baocaodt.GetMaBCDT(thang, nam);
-
-                DataRowView row = phongThueDtg.Items[0] as DataRowView;
 
                 MessageBox.Show("Đã lưu hóa đơn thanh toán số " + maHDTbl.Text + " thành công!", "Thông báo");
 
@@ -287,8 +295,6 @@ namespace QuanLyKhachSan.MVVM.View
                         {
 
                             ctbcdt.SuaCTBAOCAODOANHTHUDT((int)doanhthu, row[2].ToString(), maBCDT);
-
-
                         }
                     }
                 }
@@ -305,9 +311,22 @@ namespace QuanLyKhachSan.MVVM.View
 
                 phong.SuaTrangThaiPhong("Trống", maPhongTbl.Text);
                 ptp.SuaTinhTrangPTP(maPTPTbl.Text);
-                huyBtn.IsEnabled = true;
+
+                HoaDon hoaDon = new HoaDon();
+                hoaDon.maHD = maHDTbl.Text;
+                hoaDon.maPhong = row[0].ToString();
+                hoaDon.tenPhong = row[1].ToString();
+                hoaDon.maLP = row[2].ToString();
+                hoaDon.soNguoi = soLuongTbl.Text;
+                hoaDon.ngayLap = ngayLapDpk.Text;
+                hoaDon.ngayThue = ngayThueDpk.Text;
+                hoaDon.tongTien = thanhTienTxb.Text;
+                hoaDon.donGia = donGiaTbl.Text;
+                hoaDon.ShowDialog();
+
+                huyBtn.IsEnabled = false;
                 LamMoiDuLieu();
-                maPhongTbl.Text = maHDTbl.Text = string.Empty;
+                maPTPTbl.Text = maHDTbl.Text = string.Empty;
             }
         }
 
@@ -316,19 +335,25 @@ namespace QuanLyKhachSan.MVVM.View
             var result = MessageBox.Show("Bạn muốn xóa không?", "Thông báo", MessageBoxButton.YesNo, MessageBoxImage.Information);
             if (result == MessageBoxResult.No)
                 return;
-            LamMoiDuLieu();
+            try
+            {
+                LamMoiDuLieu();
 
-            int mahd = Convert.ToInt32(maHDTbl.Text);
-            int maptp = Convert.ToInt32(maPTPTbl.Text);
-            cthd.XoaCHITIETHD(mahd, maptp);
-            hd.XoaHOADON(mahd);
+                int mahd = Convert.ToInt32(maHDTbl.Text);
+                int maptp = Convert.ToInt32(maPTPTbl.Text);
+                cthd.XoaCHITIETHD(mahd, maptp);
+                hd.XoaHOADON(mahd);
 
-            MessageBox.Show("Đã hủy hóa đơn thanh toán số " + maHDTbl.Text + " thành công!", "Thông báo");
-            maHDTbl.Text = string.Empty;
-            maPTPTbl.Text = string.Empty;
+                MessageBox.Show("Đã hủy hóa đơn thanh toán số " + maHDTbl.Text + " thành công!", "Thông báo");
+                maHDTbl.Text = string.Empty;
+                maPTPTbl.Text = string.Empty;
 
-            huyBtn.IsEnabled = false;
-
+                huyBtn.IsEnabled = false;
+            }
+            catch
+            {
+                MessageBox.Show("Đã có lỗi xảy ra trong quá trình xử lý!", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
         private void LamMoiDuLieu()

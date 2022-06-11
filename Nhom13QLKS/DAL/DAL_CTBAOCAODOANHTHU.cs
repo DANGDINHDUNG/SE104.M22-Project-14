@@ -14,7 +14,7 @@ namespace DAL
     {
         public DataTable getDSCTBAOCAODOANHTHU(int mabcdt)
         {
-            SqlDataAdapter da = new SqlDataAdapter("SELECT * FROM CTBAOCAODOANHTHU where MABCDT = '" + mabcdt + "'", connection);
+            SqlDataAdapter da = new SqlDataAdapter("SELECT MACTBCDT, MALP, MABCDT, FORMAT(DOANHTHU, '###,###') 'DOANHTHU', TYLE FROM CTBAOCAODOANHTHU where MABCDT = '" + mabcdt + "'", connection);
             DataTable dtCTBAOCAODOANHTHU = new DataTable();
             da.Fill(dtCTBAOCAODOANHTHU);
             return dtCTBAOCAODOANHTHU;

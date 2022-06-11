@@ -135,7 +135,19 @@ namespace QuanLyKhachSan.MVVM.View.SubView
 
         private void loaiPhongCbx_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            donGiaTxb.Text = busLoaiPhong.LoadGiaTheoLoaiPhong(loaiPhongCbx.SelectedItem.ToString());
+            if(loaiPhongCbx.Text == string.Empty)
+            {
+                donGiaTxb.Text = string.Empty;
+            }
+            else
+            {
+                donGiaTxb.Text = busLoaiPhong.LoadGiaTheoLoaiPhong(loaiPhongCbx.SelectedItem.ToString());
+            }
+        }
+
+        private void thaotacExcelBtn_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

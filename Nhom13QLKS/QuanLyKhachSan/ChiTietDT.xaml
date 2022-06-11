@@ -66,7 +66,8 @@
                 Text="Chi tiết báo cáo doanh thu"
                 FontWeight="Bold"
                 Foreground="#424F6B"/>
-            <Button x:Name="hoanTatBtn" Style="{StaticResource WindowButtonTheme2}" Content="Hoàn tất" HorizontalAlignment="Left" Margin="575,315,0,0" Grid.Row="1" VerticalAlignment="Top" Height="37" Width="160" Click="thoat_Click"/>
+            <Button x:Name="hoanTatBtn" Style="{StaticResource WindowButtonTheme2}" Content="Hoàn tất" HorizontalAlignment="Left" Margin="575,315,0,0" Grid.Row="1" VerticalAlignment="Top" Height="37" Width="160" Click="hoanTatBtn_Click"/>
+            <Button x:Name="xuatExcelBtn" Style="{StaticResource WindowButtonTheme2}" Content="Xuất Excel" HorizontalAlignment="Left" Margin="373,315,0,0" Grid.Row="1" VerticalAlignment="Top" Height="37" Width="160" Click="xuatExcelBtn_Click"/>
         </Grid>
     </Border>
 </Window>

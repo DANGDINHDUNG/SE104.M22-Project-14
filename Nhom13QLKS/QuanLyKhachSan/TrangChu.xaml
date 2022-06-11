@@ -116,8 +116,7 @@
                                         <Style TargetType="RadioButton" BasedOn="{StaticResource AccountDropDownButtonTheme}"/>
                                     </StackPanel.Resources>
 
-                                    <RadioButton Content="Option 1"/>
-                                    <RadioButton Content="Option 2" />
+
                                     <RadioButton x:Name="SignUp" 
                                                  Content="Đăng kí" 
                                                  Click="SignUpButton_Clicked"/>

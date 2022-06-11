@@ -15,7 +15,7 @@ namespace DAL
         public DataTable getDSPTP()
         {
             SqlDataAdapter da = new SqlDataAdapter("SELECT MAPTP, MAPHONG, FORMAT(NGAYLAP, 'dd/MM/yyyy') 'NGAYLAP', SOLUONG, FORMAT(DONGIA, '###,###') 'DONGIA', TINHTRANG" +
-                                                   " FROM PHIEUTHUEPHONG where TINHTRANG = 'Chưa thanh toán'", connection);
+                                                   " FROM PHIEUTHUEPHONG WHERE TINHTRANG = 'Chưa thanh toán'", connection);
             DataTable dtPTP = new DataTable();
             da.Fill(dtPTP);
             return dtPTP;

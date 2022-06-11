@@ -50,37 +50,7 @@ namespace QuanLyKhachSan.MVVM.View
 
             thangCbx.Text = myDateTime.Month.ToString();
 
-            SeriesCollection = new SeriesCollection();
-
-            //if (rbtnNamNay.IsChecked == true)
-            //{
-            //    year = myDateTime.Year;
-            //}
-            //else
-            //{
-            //    year = myDateTime.Year - 1;
-            //}
-
-            //maBCDT = bcdt.GetMaBCDT(Convert.ToInt32(cbxThang.Text), year);
-
-            //foreach (string code in lp.TongHopMaLoaiPhong())
-            //{
-            //    List<double> listdoanhthu = new List<double>();
-
-            //    double doanhthu = Convert.ToDouble(ctbcdt.GetDoanhThu(code, maBCDT));
-            //    listdoanhthu.Add(doanhthu);
-            //    ColumnSeries column = new ColumnSeries();
-
-            //    string title = code;
-            //    column.Title = title;
-            //    column.Values = listdoanhthu.AsChartValues();
-            //    SeriesCollection.Add(column);
-            //}
-
-            //tblTongDoanhThu.Text = ctbcdt.GetTongDoanhThuTrongThang(maBCDT);
-            //btnChiTietDT.IsEnabled = true;
-
-            DataContext = this;
+            SeriesCollection = new SeriesCollection();        
         }
 
         DateTime myDateTime = DateTime.Now;
@@ -94,19 +64,26 @@ namespace QuanLyKhachSan.MVVM.View
 
         private void chiTietDTBtn_Click(object sender, RoutedEventArgs e)
         {
-            if (namNayRbtn.IsChecked == true)
+            try
             {
-                year = myDateTime.Year;
-            }
-            else
-            {
-                year = myDateTime.Year - 1;
-            }
+                if (namNayRbtn.IsChecked == true)
+                {
+                    year = myDateTime.Year;
+                }
+                else
+                {
+                    year = myDateTime.Year - 1;
+                }
 
-            maBCDT = bcdt.GetMaBCDT(Convert.ToInt32(thangCbx.Text), year);
-            ChiTietDT chiTietDT = new ChiTietDT();
-            chiTietDT.mabcdt = Convert.ToInt32(maBCDT);
-            chiTietDT.ShowDialog();
+                maBCDT = bcdt.GetMaBCDT(Convert.ToInt32(thangCbx.Text), year);
+                ChiTietDT chiTietDT = new ChiTietDT();
+                chiTietDT.mabcdt = Convert.ToInt32(maBCDT);
+                chiTietDT.ShowDialog();
+            }
+            catch
+            {
+                MessageBox.Show("Tháng đã chọn hiện chưa có báo cáo", "Thông báo");
+            }
         }
 
         private void taoBtn_Click(object sender, RoutedEventArgs e)

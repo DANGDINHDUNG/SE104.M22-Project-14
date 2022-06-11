@@ -133,3 +133,18 @@ C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.cspr
 C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.dll
 C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\ref\DAL.dll
 C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\bin\Debug\net5.0-windows\DAL.deps.json
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.csproj.AssemblyReference.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfoInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.AssemblyInfo.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.csproj.CopyComplete
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\refint\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\DAL\obj\Debug\net5.0-windows\ref\DAL.dll

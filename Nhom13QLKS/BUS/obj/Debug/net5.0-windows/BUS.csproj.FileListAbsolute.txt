@@ -151,3 +151,20 @@ C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.cspr
 C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.dll
 C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\ref\BUS.dll
 C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\BUS.deps.json
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.csproj.AssemblyReference.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfoInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.AssemblyInfo.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.csproj.CopyComplete
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\refint\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\BUS\obj\Debug\net5.0-windows\ref\BUS.dll

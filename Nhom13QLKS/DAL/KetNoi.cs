@@ -10,7 +10,7 @@ namespace DAL
 {
     public class KetNoi
     {
-        public SqlConnection connection = new SqlConnection(@"Data Source=DESKTOP-CSCM7O3;Initial Catalog=QUANLYKHACHSAN;Persist Security Info=True;User ID=admin;Password=123456");
+        public SqlConnection connection = new SqlConnection(@"Data Source=DESKTOP-CSCM7O3;Initial Catalog=QUANLYKHACHSAN;User ID=admin;Password=123456");
         public void CheckConnection()
         {
             if (connection.State != ConnectionState.Open)
@@ -19,5 +19,4 @@ namespace DAL
             }
         }
     }
-    //xong r đó :V
 }

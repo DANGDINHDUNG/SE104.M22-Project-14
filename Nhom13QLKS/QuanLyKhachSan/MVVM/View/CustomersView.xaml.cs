@@ -53,11 +53,18 @@ namespace QuanLyKhachSan.MVVM.View
             var result = MessageBox.Show("Bạn muốn xóa không?", "Thông báo", MessageBoxButton.YesNo, MessageBoxImage.Information);
             if (result == MessageBoxResult.No)
                 return;
-            if (makhTbx.Text != null)
+            try
             {
-                kh.XoaKhachHang(Convert.ToInt32(makhTbx.Text.ToString()));
+                if (makhTbx.Text != null)
+                {
+                    kh.XoaKhachHang(Convert.ToInt32(makhTbx.Text.ToString()));
+                }
+                Load();
             }
-            Load();
+            catch
+            {
+                MessageBox.Show("Khách hàng đã được sử dụng trong phiếu thuê phòng. Không thể xóa !", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
         }
         private void SuaBtn_Click(object sender, RoutedEventArgs e)
         {

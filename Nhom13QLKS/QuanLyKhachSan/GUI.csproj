@@ -30,7 +30,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="EPPlus" Version="6.0.4" />
     <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.5.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -69,6 +71,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Page Update="HoaDon.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="ChiTietPTP.xaml">
       <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
     </Page>

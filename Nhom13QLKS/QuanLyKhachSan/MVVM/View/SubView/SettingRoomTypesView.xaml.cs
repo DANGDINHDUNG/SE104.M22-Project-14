@@ -57,8 +57,16 @@ namespace QuanLyKhachSan.MVVM.View.SubView
             var result = MessageBox.Show("Bạn muốn xóa không?", "Thông báo", MessageBoxButton.YesNo, MessageBoxImage.Information);
             if (result == MessageBoxResult.No)
                 return;
-            busLoaiPhong.XoaLoaiPhong(maLoaiPhongTxb.Text);
-            DataGridLoad();
+            
+            try
+            {
+                busLoaiPhong.XoaLoaiPhong(maLoaiPhongTxb.Text);
+                DataGridLoad();
+            }
+            catch
+            {
+                MessageBox.Show("Mã phòng hiện tại đang được sử dụng. Không thể thực hiện thao tác xóa!", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
         }
 
         private void danhSachLoaiPhongDtg_SelectionChanged(object sender, SelectionChangedEventArgs e)

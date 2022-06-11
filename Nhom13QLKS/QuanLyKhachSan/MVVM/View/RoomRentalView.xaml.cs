@@ -84,11 +84,14 @@ namespace QuanLyKhachSan.MVVM.View
             ChiTietPTP chiTietPTP = new ChiTietPTP();
             chiTietPTP.maPTP = formCode;
             chiTietPTP.ShowDialog();
+            formCode = string.Empty;
         }
 
         private void themSuaPTPBtn_Click(object sender, RoutedEventArgs e)
         {
             DTO_PHIEUTHUEPHONG inputPTP = new DTO_PHIEUTHUEPHONG();
+            BUS_THAMSO busThamSo = new BUS_THAMSO();
+
             try
             {
                 if (maPhongTxb.Text == string.Empty || soKhachTxb.Text == string.Empty)
@@ -97,6 +100,11 @@ namespace QuanLyKhachSan.MVVM.View
                 }
                 else
                 {
+                    if (int.Parse(soKhachTxb.Text) > busThamSo.SoLuongToiDa())
+                    {
+                        MessageBox.Show("Số lượng khách hàng vượt quá quy định, vui lòng kiểm tra lại.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Warning);
+                        return;
+                    }
                     inputPTP._MAPHONG = int.Parse(maPhongTxb.Text);
                     inputPTP._NGAYLAP = DateTime.ParseExact(ngayLapTxb.Text, "dd/MM/yyyy", null);
                     inputPTP._SOLUONG = int.Parse(soKhachTxb.Text);
@@ -120,10 +128,11 @@ namespace QuanLyKhachSan.MVVM.View
                     busPHONG.SuaTrangThaiPhong("Đã thuê", inputPTP._MAPHONG.ToString());
                 }
                 DataGridLoad();
+                formCode = string.Empty;
             }
             catch
             {
-                MessageBox.Show("Vui lòng nhập đúng định dạng ngày tháng (dd/MM/yyyy)");
+                MessageBox.Show("Vui lòng nhập đúng định dạng ngày tháng (dd/MM/yyyy)", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
             
         }
@@ -211,12 +220,22 @@ namespace QuanLyKhachSan.MVVM.View
             var result = MessageBox.Show("Bạn muốn xóa không?", "Thông báo", MessageBoxButton.YesNo, MessageBoxImage.Information);
             if (result == MessageBoxResult.No)
                 return;
-            if (danhSachKHDtg.SelectedItem != null)
+            
+            try
             {
-                DataRowView row = danhSachKHDtg.SelectedItem as DataRowView;
-                kh.XoaKhachHang(Convert.ToInt32(row[0].ToString()));
+                if (danhSachKHDtg.SelectedItem != null)
+                {
+                    DataRowView row = danhSachKHDtg.SelectedItem as DataRowView;
+                    kh.XoaKhachHang(Convert.ToInt32(row[0].ToString()));
+                    LoadKh();
+
+                }
             }
-            LoadKh();
+            catch
+            {
+                MessageBox.Show("Khách hàng đã được sử dụng trong phiếu thuê phòng. Không thể xóa!", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Warning);
+
+            }
         }
 
         private void lamMoiDSKHBtn_Click(object sender, RoutedEventArgs e)
@@ -228,7 +247,6 @@ namespace QuanLyKhachSan.MVVM.View
         public void DataGridLoad()
         {
             danhSachPTPDtg.DataContext = busPTP.getDSPTP();
-
         }
 
         public void LoadKh()

@@ -709,3 +709,105 @@ C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windo
 C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
 C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
 C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.exe
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.deps.json
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\GUI.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\ButtonTheme.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\SearchBoxTheme.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomsView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI_MarkupCompile.lref
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\App.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietDT.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietHD.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ChiTietPTP.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\CompletedWindow.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ConfirmScreen.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\DangKy.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\DanhSachPTP.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\LogInScreen.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\CustomersView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\DiscoveryView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\PaymentView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ReportationView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\RoomRentalView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\ServicesView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SettingsView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomStatusesView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomsView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRoomTypesView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\SubView\SettingRulesView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\MVVM\View\TempView.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\QuenMatKhau.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\Theme\TextBoxTheme.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\TrangChu.baml
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.g.resources
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\refint\GUI.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\EPPlus.Interfaces.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\EPPlus.System.Drawing.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\HoaDon.g.cs
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\dell\Downloads\Nhom13QLKS (JBugg)\QuanLyKhachSan\obj\Debug\net5.0-windows\HoaDon.baml
