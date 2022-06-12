@@ -35,14 +35,14 @@
 
             <TextBlock x:Name="roomCodeLabel" Text="Mã phòng" Grid.ColumnSpan="2" Margin="10,22,256,0" VerticalAlignment="Top"/>
             <TextBlock x:Name="roomNameLabel" Text="Tên phòng" Margin="10,79,257,0" VerticalAlignment="Top" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
-            <TextBox x:Name="maPhongTxb" Grid.ColumnSpan="2" Margin="154,19,112,36" VerticalAlignment="Stretch" IsEnabled="False"/>
+            <TextBox x:Name="maPhongTxb" Grid.ColumnSpan="2" Margin="154,19,112,36" VerticalAlignment="Stretch" IsEnabled="False" Background="#FF9A9AA4"/>
             <TextBox x:Name="tenPhongTxb" Grid.ColumnSpan="2" Margin="154,76,112,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
             <TextBlock x:Name="roomTypeNameLabel" Grid.Row="1" Text="Tên loại phòng" Margin="10,46,257,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
             <TextBox x:Name="loaiPhongTxb" Grid.Row="1" Grid.ColumnSpan="2" Margin="154,42,112,0" VerticalAlignment="Top"/>
             <TextBlock x:Name="priceLabel" Text="Đơn giá" Margin="202,22,0,0" VerticalAlignment="Top" Grid.Column="1" Grid.ColumnSpan="2" Height="28" HorizontalAlignment="Left" Width="87"/>
             <TextBox x:Name="donGiaTxb" Margin="52,19,48,36" VerticalAlignment="Stretch" Grid.Column="2"/>
             <TextBlock x:Name="statusLabel" Text="Trạng thái" Margin="202,79,223,0" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2" VerticalAlignment="Top" Height="27"/>
-            <TextBox x:Name="trangThaiTxb" Margin="52,76,48,0" Grid.Column="2" VerticalAlignment="Top" Grid.RowSpan="2"/>
+            <TextBox x:Name="trangThaiTxb" Margin="52,76,48,0" Grid.Column="2" VerticalAlignment="Top" Grid.RowSpan="2" IsEnabled="False" Background="#FF9A9AA4"/>
         </Grid>
 
         <Grid Grid.Row="1">

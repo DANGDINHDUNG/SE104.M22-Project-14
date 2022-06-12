@@ -62,7 +62,7 @@
                 <TextBlock x:Name="roomNameLabel" Grid.Row="2" Text="Tên phòng"/>
                 <TextBlock x:Name="priceLabel" Text="Đơn giá (VND)" Grid.Column="3" Margin="0,0,37,0"/>
                 <TextBlock x:Name="noteLabel" Grid.Column="3" Text="Ghi chú" Grid.Row="1" Margin="0,53,90,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
-                <TextBox x:Name="maPhongTxb" Grid.Column="1" IsEnabled="False"/>
+                <TextBox x:Name="maPhongTxb" Grid.Column="1" IsEnabled="False" Background="#FF9A9AA4"/>
                 <TextBox x:Name="tenPhongTxb" Grid.Row="2" Grid.Column="1"/>
                 <TextBox x:Name="ghiChuTxb" Grid.Column="3" Grid.Row="1" Grid.ColumnSpan="2" Margin="148,25,14,0" Height="81" Grid.RowSpan="2" VerticalAlignment="Top"/>
                 <TextBox x:Name="donGiaTxb"
